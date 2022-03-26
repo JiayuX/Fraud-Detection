@@ -1,5 +1,5 @@
 # Fraud-Detection
-In this project, we try to use different supervised or unsupervised machine learning models to detect fraudulent credit card transactions.
+In this project, we try to use different supervised or unsupervised machine learning models to detect fraudulent credit card transactions. The data is from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The supervised models we used are neural multipayer perceptron classifier (MLP) and gradient boosting classifier (GB). The unsupervised models used are isolation forest (IF) and antoencoder (AE).
 
